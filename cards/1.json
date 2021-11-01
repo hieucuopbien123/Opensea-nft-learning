@@ -1,16 +1,1 @@
-{
-    "name": "Card 1",
-    "description": "Genesis card",
-    "image": "https://raw.githubusercontent.com/hieucuopbien123/Public-data/main/cards/1.jpg",
-    "attributes": [
-        {
-          "trait_type": "class", 
-          "value": "genesis"
-        }, 
-        {
-            "display_type": "date", 
-            "trait_type": "birthday", 
-            "value": 1624955102
-        }        
-      ]
-}
+{"attributes":[{"trait_type":"base","value":"starfish"},{"trait_type":"eyes","value":"joy"},{"trait_type":"mouth","value":"surprised"},{"trait_type":"level","value":2},{"trait_type":"stamina","value":2.3},{"trait_type":"personality","value":"sad"},{"display_type":"boost_number","trait_type":"aqua_power","value":40},{"display_type":"boost_percentage","trait_type":"stamina_increase","value":10},{"display_type":"number","trait_type":"generation","value":2}],"description":"Friendly OpenSea Creature that enjoys long swims in the ocean.","external_url":"https://example.com/?token_id=1","image":"https://storage.googleapis.com/opensea-prod.appspot.com/creature/1.png","name":"Sprinkles Fisherton"}
