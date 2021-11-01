@@ -1,7 +1,7 @@
 {
     "name" : "Unnamed memory",
     "description" : "vague 2 monster" ,
-    "image_url":"https://thuthuatnhanh.com/wp-content/uploads/2020/02/hinh-nen-tho-trang-tren-tham-co-xanh.jpg",
+    "image_url":"https://raw.githubusercontent.com/hieucuopbien123/Public-data/main/cards/1.jpg",
     "attributes" :[
         {
             "trait type":"class",
