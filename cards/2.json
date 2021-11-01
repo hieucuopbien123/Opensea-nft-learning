@@ -2,15 +2,5 @@
     "name": "Card 2",
     "description": "Genesis card",
     "image": "https://github.com/hieucuopbien123/Public-data/raw/main/cards/2.jpg",
-    "attributes": [
-        {
-          "trait_type": "class", 
-          "value": "dragon"
-        }, 
-        {
-            "display_type": "date", 
-            "trait_type": "birthday", 
-            "value": 1624955102
-        }        
-      ]
+    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961"
 }
